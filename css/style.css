@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+    font-family: 'Courgette', cursive;;
+}
+h1{
+    text-align: center;
+}
+input{
+   display: flex;
+   border-radius: 20px;
+   font-family: 'Courgette', cursive;
+   align-items: center;
+}
+footer{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+   
+}
+#submiter{
+background-color: RGB(39, 39, 39);
+color: white;
+}
